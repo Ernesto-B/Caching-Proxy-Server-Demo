@@ -1,0 +1,46 @@
+### https://dummyjson.com/docs
+
+GET http://localhost:3000/test
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/products
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/carts
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/recipes
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/users
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/posts
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/comments
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/todos
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/quotes
+Content-Type: application/json
+
+###
