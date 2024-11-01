@@ -43,4 +43,12 @@ Content-Type: application/json
 GET http://localhost:3000/quotes
 Content-Type: application/json
 
+
+
+### For Python Proxy:
+
+GET http://localhost:8080/gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/Web_Proxy_programming_only.pdf
+
 ###
+
+GET http://localhost:8080/assets.pokemon.com/assets/cms2/pdf/trading-card-game/rulebook/sm7_rulebook_en.pdf
