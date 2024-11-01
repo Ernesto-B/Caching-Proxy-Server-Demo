@@ -1,6 +1,6 @@
 # Caching-Proxy-Server-Demo
 
-The purpose of this project is to show how a simple cache is made and works (barring TTL), and how it can be modified to acomodate different caching replacement policies. This project was also aimed at getting experience working with the axios and http libraries.
+The purpose of this project is to show how a simple cache is made and works (barring TTL), and how it can be modified to accomodate different caching replacement policies. This project was also aimed at getting experience working with the axios and http libraries.
 
 This project implements a simple caching proxy server in Node.js that forwards requests to an origin server and caches the responses. It has two versions: 
 1. A basic caching server (`cachingServer.js`).
